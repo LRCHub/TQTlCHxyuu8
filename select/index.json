@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "God’s Menu",
+  "base_artist": "Stray Kids",
+  "createdAt": "2025-12-30T16:53:22.221912Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God’s Menu",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/01_God’s_Menu_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God’s Menu",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/02_God’s_Menu_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "God's Menu (神메뉴)",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "has_synced": true,
+      "path": "select/03_God's_Menu_(神메뉴)_Stray_Kids_(스트레이_키즈).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "God’s Menu",
+      "artist": "Stray Kids @BEHMELODY",
+      "has_synced": true,
+      "path": "select/04_God’s_Menu_Stray_Kids_@BEHMELODY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God’s Menu",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/05_God’s_Menu_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "God’s Menu",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "has_synced": true,
+      "path": "select/06_God’s_Menu_Stray_Kids_(스트레이_키즈).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "神메뉴 God’s Menu",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/07_神메뉴_God’s_Menu_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "God's Menu (Japanese Version)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/08_God's_Menu_(Japanese_Version)_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "God's Menu -Japanese ver.-",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/09_God's_Menu_-Japanese_ver.-_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "God's menu (slowed n reverb)",
+      "artist": "MesmoLate",
+      "has_synced": true,
+      "path": "select/10_God's_menu_(slowed_n_reverb)_MesmoLate.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "God's Menu",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/11_God's_Menu_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "神メニュー -Japanese ver.- - God's Menu (Japanese version)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/12_神メニュー_-Japanese_ver.-_-_God's_Menu_(Japanese_version)_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stray Kids - Gods Menu",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/13_Stray_Kids_-_Gods_Menu_Stray_Kids.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "God's Menu",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_God's_Menu_Stray_Kids.txt"
+    }
+  ]
+}
